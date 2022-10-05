@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Mobile Development**
 
-- 🌱 I’m currently learning **android development using java**
+- 🌱 I’m currently learning **android development using java and Kotlin**
 
 - 👯 I’m looking to collaborate on **an android app from scratch**
 
