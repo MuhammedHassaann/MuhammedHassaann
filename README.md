@@ -34,4 +34,4 @@
 <h3 align="left">GitHub Stats:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=muhammedhassaann&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="muhammedhassaann" /></a> </p>
 
-![snake gif](https://github.com/MuhammedHassaann/MuhammedHassaann/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MuhammedHassaann/MuhammedHassaann/blob/output/github-contribution-grid-snake.svg)
