@@ -3,15 +3,13 @@
 <img align="right" alt="GIF" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/main/developer.gif?raw=true" width="400" height="300" />
 - 🔭 I’m currently studying **Mobile Development**
 
-- 🌱 I’m currently learning **android development using java**
+- 🌱 I’m currently learning **android development using Kotlin**
 
-- 👯 I’m looking to collaborate on **an android app from scratch**
-
-- 🤝 I’m looking for help with **design patterns**
+- 👯 I’m looking to collaborate on **large scale android apps**
 
 - 💬 Ask me about **anything i'd like to help**
 
-- 📫 How to reach me **@M0Hasaan**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/mohammed-hassaan/" target="_blank">@Mohammed Hassaan</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
