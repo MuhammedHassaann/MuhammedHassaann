@@ -29,9 +29,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedhassaann&&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="muhammedhassaann" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedhassaann&theme=radical&hide_border=false" alt="muhammedhassaann" /></p>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedhassaann&theme=radical&hide_border=false" alt="muhammedhassaann" /></p>
 <hr>
 <h3 align="left">GitHub Stats:</h3>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=muhammedhassaann&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="muhammedhassaann" /></a> </p>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=muhammedhassaann&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="muhammedhassaann" /></a> </p></div>
 
 <div align="center"><img align="center" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/output/github-contribution-grid-snake.svg"/></div>
