@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/main/developer.gif?raw=true" width="400" height="300" />
 - 🔭 I’m currently studying **Mobile Development**
 
-- 🌱 I’m currently learning **android development using Kotlin**
+- 🌱 I’m currently learning **Android development using Kotlin**
 
-- 👯 I’m looking to collaborate on **large scale android apps**
+- 💻 I’m looking to collaborate on **large scale android apps**
 
 - 💬 Ask me about **anything i'd like to help**
 
