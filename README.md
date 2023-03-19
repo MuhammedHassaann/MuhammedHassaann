@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hassaan</h1>
 <h3 align="center">A passionate Android Developer from Egypt</h3>
-<img align="right" alt="GIF" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/main/dev.gif?raw=true" width="400" height = "225" />
+<img align="right" alt="GIF" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/main/dev.gif?raw=true" width="450" height = "250" />
 - 🔭 I’m currently studying **Mobile Development**
 
 - 🌱 I’m currently learning **Android development using Kotlin**
