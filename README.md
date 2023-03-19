@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/mohammed-hassaan/" target="_blank" >@Mohammed Hassaan</a>**
 
+- 📫 For further information you can check my **<a href="https://drive.google.com/file/d/1d6XhqlAx8cOdmUTAXWgHI19oYwC6thkY/view?usp=sharing" target="_blank" >Resume</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m0hasaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0hasaan" height="30" width="40" /></a>
