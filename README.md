@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything i'd like to help**
 
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/mohammed-hassaan/" target="_blank">@Mohammed Hassaan</a>**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/mohammed-hassaan/" target="_blank" >@Mohammed Hassaan</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
