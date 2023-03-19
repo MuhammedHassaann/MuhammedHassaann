@@ -34,4 +34,6 @@
 <h3 align="left">Trophies:</h3>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=muhammedhassaann&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="muhammedhassaann" /></a> </p></div>
 
+<hr>
+<h3 align="left">Contributions:</h3>
 <div align="center"><img align="center" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/output/github-contribution-grid-snake.svg"/></div>
