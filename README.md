@@ -36,4 +36,4 @@
 
 <hr>
 <h3 align="left">Contributions:</h3>
-<div align="center"><img align="center" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/output/github-contribution-grid-snake.svg"/></div>
+<div align="center"><img align="center" src="https://github.com/MuhammedHassaann/MuhammedHassaann/blob/output/github-contribution-grid-snake-dark.svg"/></div>
