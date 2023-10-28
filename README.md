@@ -18,7 +18,7 @@
 <a href="https://twitter.com/m0hasaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0hasaan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-hassaan-691a44217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-hassaan-691a44217/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muhammed.hassaann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mhmed.prns" height="30" width="40" /></a>
-<a href="https://instagram.com/m7mad_hasaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m7mad_hasaan" height="30" width="40" /></a>
+<a href="https://instagram.com/m7mad_hasaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m7mad_hasaan/" height="30" width="40" /></a>
 <a href="https://discord.gg/☣ 𝓜𝓸𝓨𝓪𝓰𝓪 ☣#5258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="☣ 𝓜𝓸𝓨𝓪𝓰𝓪 ☣#5258" height="30" width="40" /></a>
 </p>
 
